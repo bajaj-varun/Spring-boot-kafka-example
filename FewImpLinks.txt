@@ -1,0 +1,37 @@
+Independant:
+Is Batch ETL Dead, and is Apache Kafka the Future of Data Processing? https://www.infoq.com/articles/batch-etl-streams-kafka 
+Use Apache Kafka to Transform a Batch Pipeline Into a Real-Time One, Part 1 https://dzone.com/articles/how-to-use-apache-kafka-to-transform-a-batch-pipel 
+Use Apache Kafka to Transform a Batch Pipeline Into a Real-Time One, Part 2 https://dzone.com/articles/use-apache-kafka-to-transform-a-batch-pipeline-int 
+
+
+Confluent:
+Why Do We Need Streaming ETL? https://rmoff.net/2018/03/06/why-do-we-need-streaming-etl/ 
+Streaming data from Oracle into Kafka https://rmoff.net/2018/12/12/streaming-data-from-oracle-into-kafka-december-2018/ 
+
+
+RBC moving from batch to real time  https://www.confluent.io/customers/rbc 
+Neha CTO explaining the move from batch fro real time for Nav, Nordea, Audi, ING, RBC and of course Netflix https://youtu.be/eublKlalobg 
+Building an Enterprise Streaming Platform at Capital One https://www.confluent.io/kafka-summit-SF18/building-an-enterprise-streaming-platform-capital-one 
+
+
+KSQL:
+KSQL recipes https://www.confluent.io/stream-processing-cookbook/ 
+Debug https://www.confluent.io/blog/troubleshooting-ksql-part-1 and https://www.confluent.io/blog/troubleshooting-ksql-part-2 
+
+
+https://www.confluent.io/apache-kafka-stream-processing-book-bundle 
+
+--------------------------Few others----------------------------------------
+https://www.confluent.io/designing-event-driven-systems 
+
+
+https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85 
+https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/ 
+
+
+https://dzone.com/articles/spark-streaming-vs-kafka-stream-1 
+
+https://itnext.io/a-cqrs-approach-with-kafka-streams-and-scala-49bfa78e4295 
+
+CaaS (Docker and Kubernetes) 3 hours to build a scalable container based architecture
+https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
