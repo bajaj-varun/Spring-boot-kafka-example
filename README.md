@@ -7,6 +7,7 @@ http://go2.confluent.io/et0GdX02000HQR0GdafkI0r<br/>
 http://go2.confluent.io/LGd2XH00a0bR0QdGI0k0r0t
 
 
-Links added for further reading.
+Links added for further reading.<br/>
 https://docs.confluent.io/current/streams/developer-guide/datatypes.html#avro <br />
-https://www.confluent.io/blog/schema-registry-kafka-stream-processing-yes-virginia-you-really-need-one/
+https://www.confluent.io/blog/schema-registry-kafka-stream-processing-yes-virginia-you-really-need-one/<br/>
+https://docs.confluent.io/current/streams/faq.html#streams-faq-failure-handling-deserialization-errors
